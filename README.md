@@ -29,7 +29,7 @@ To access and utilize this project on GitHub, follow these steps:
 
 ## 🌐 Website
 
-Explore the Beats 3 Headphones site [here](https://pamyszz.github.io/Beats-3/).
+Explore the Beats 3 Headphones site [here](https://beats-3-five.vercel.app/).
 
 ## 📝 Feedback
 
